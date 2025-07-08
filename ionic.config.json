@@ -1,0 +1,8 @@
+{
+  "name": "Alumni",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "a84238a7"
+}
