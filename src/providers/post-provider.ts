@@ -8,7 +8,7 @@ import { Observable } from 'rxjs';
 })
 export class PostProvider {
   // URL server
-  server: string = 'http://localhost/alumni/';
+  server: string = 'http://localhost/api/';
 
   constructor(public http: HttpClient) {}
 
