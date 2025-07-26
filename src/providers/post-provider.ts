@@ -8,7 +8,7 @@ import { Observable } from 'rxjs';
 })
 export class PostProvider {
   // URL server
-  server: string = 'http://localhost/api/';
+  server: string = 'https://edc6c5fdd8d1.ngrok-free.app/perpustakaan/';
 
   constructor(public http: HttpClient) {}
 
